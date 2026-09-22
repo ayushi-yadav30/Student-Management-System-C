@@ -43,7 +43,6 @@ The program allows users to manage student records and perform basic academic an
 
 **Compile:**
 
-```bash
 gcc student_management.c -o student
 ./student
 student.exe
