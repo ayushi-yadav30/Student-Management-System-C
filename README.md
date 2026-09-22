@@ -39,13 +39,13 @@ struct Student {
     float marks;
 };
 
-Each student record stores:
+## Each student record stores:
 
 ->Roll number
 ->Name
 ->Marks
 
-▶️ How to Run
+## ▶️ How to Run
 Compile:
 gcc student_management.c -o student
 Run:
@@ -53,11 +53,11 @@ Run:
 Windows:
 student.exe
 
-📸 Sample Output
+## 📸 Sample Output
 <img width="397" height="390" alt="image" src="https://github.com/user-attachments/assets/09ada2f0-6370-49f4-a500-c0cc21a13a09" />
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 Add multiple subjects
 Add attendance management
 Generate student report cards
