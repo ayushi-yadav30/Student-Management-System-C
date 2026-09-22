@@ -47,15 +47,13 @@ The program allows users to manage student records and perform basic academic an
 gcc student_management.c -o student
 ./student
 student.exe
+-----------------------------------------
+**📸 Sample Output**
 
-## **Sample Output**
 <img width="397" height="390" alt="Screenshot 2026-09-22 220313" src="https://github.com/user-attachments/assets/514c8194-5846-4baf-882e-9b6be9da0ef9" />
 
-## **🔮 Future Improvements**
-Add multiple subjects
-Add attendance management
-Generate student report cards
-Add sorting by marks or roll number
-Export records to CSV
-Add login authentication
-Connect the system to a database
+**🔮 Future Improvements**
+
+- Add multiple subjects
+- Add attendance management
+- Generate student report cards
